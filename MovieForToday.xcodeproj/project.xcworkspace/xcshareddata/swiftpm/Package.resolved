@@ -109,6 +109,15 @@
       }
     },
     {
+      "identity" : "reduxcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ShapovalovIlya/ReduxCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "430b89e8e0f2e704551e26dca5157d852f4e5d3f"
+      }
+    },
+    {
       "identity" : "swift-protobuf",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-protobuf.git",
